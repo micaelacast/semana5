@@ -1,0 +1,121 @@
+.div.container {
+
+}
+
+.ul {
+	list-style-type: none; 
+	font-family: Futura; 
+	font-size: 15px; 
+	text-align: left; 
+	font-weight: bold;
+	margin-top: -10px;
+	
+
+}
+
+.header {
+text-align: left;
+color: #8FBC8F;
+background: white;
+padding: 2.5em;
+}
+
+.footer {
+text-align: left;
+color: #8FBC8F;
+background: white;
+padding: 2.5em;
+
+}
+
+.aside {
+	margin: left; 
+	clear: none; 
+	float: left;
+	background: white;
+	list-style-type: none;
+	display: block;
+	margin-right: 0;
+	margin-top: 50px;
+	margin-left: 20px;
+	font-family: 'Anton', sans-serif;
+	font-weight: bold;
+}
+
+.li {
+	font-family: 'Anton', sans-serif; 
+	font-size: 15px; 
+	list-style-type: none; 
+	float: right; 
+	margin: 0px; 
+	padding: 10px; 
+	overflow: hidden; 
+	font-color: black; 
+	font-weight: bold;
+}
+
+.section {
+	display: inline-block;
+	margin-top: -10;
+    border: 50px;
+	padding: 25px;
+	margin-left: 0px;
+	margin-top: -100px;
+	margin-right: 20px;
+
+}
+
+.article {
+	margin-bottom: 60px;
+	margin-left: -90px;
+	float: right;
+	margin-top: -20px;
+
+}
+
+.nav {
+
+}
+
+.img {
+
+}
+
+.h2 {
+font-family: 'Anton', sans-serif; 
+font-weight: bold;
+font-size: 35px; 
+margin-left: 500px;
+margin-bottom: 10px;
+}
+
+.p {
+font-family: 'Lora', serif; 
+font-size: 15px; 
+margin-left: 500px;
+}
+
+.h4 {
+
+	font-family: 'Lora', serif;
+	font-size: 12px; 
+	font-weight: bold; 
+	margin-left: 500px; 
+	text-align: justify; 
+	color: #006400; 
+	margin-top: -30px;
+
+}
+
+.footer {
+	font-family: Futura; 
+	font-weight: bold; 
+	padding: left;
+}
+
+.title {
+	margin-left: 30px;
+	font-family: 'Rammetto One', cursive;
+	font-family: 'Shrikhand', cursive;
+	background-color:  #8FBC8F;
+}
